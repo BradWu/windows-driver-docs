@@ -21,7 +21,7 @@ Any binaries referenced by the Universal INF file must use only device driver in
 
 Other binaries contained in your Universal Windows driver must pass the [API validation tests](../devtest/infverif.md).
 
-## Design Principles
+## Design Principles: DCHU
 
 When you write a universal driver package, there are four design principles to consider:
 
